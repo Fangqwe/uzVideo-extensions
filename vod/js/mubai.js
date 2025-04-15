@@ -14,7 +14,7 @@ const isUsePC = 1
 const isAddReferer = 0
 
 // 网站主页
-const webSite = 'https://m.mubai.link/index'
+const webSite = 'https://m.mubai.link'
 // 网站搜索
 // https://m.mubai.link/search?search=海
 // 把网站主页变成 @{webSite} 把搜索词变成 @{searchWord}  把页码变成 @{page}
