@@ -1,7 +1,7 @@
 // ignore
 //@name:[嗅]木白
 //@version:1
-//@webSite:https://m.mubai.link/index
+//@webSite:https://m.mubai.link
 //@remark:
 // ignore
 
